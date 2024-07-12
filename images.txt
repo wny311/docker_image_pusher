@@ -1,1 +1,1 @@
-bitnami/minideb:bookworm
+grafana/grafana:11.1.0
