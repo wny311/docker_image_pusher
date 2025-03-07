@@ -14,6 +14,7 @@
 #sonatype/nexus3:3.75.1
 #httpd:2.4.62-alpine3.20
 #cturra/ntp
-sonatype/nexus3:3.78.0
-bitnami/zookeeper:3.9.3
-bitnami/kafka:3.8.1
+#sonatype/nexus3:3.78.0
+#bitnami/zookeeper:3.9.3
+#bitnami/kafka:3.8.1
+searxng/searxng
