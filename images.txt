@@ -17,4 +17,6 @@
 #sonatype/nexus3:3.78.0
 #bitnami/zookeeper:3.9.3
 #bitnami/kafka:3.8.1
-searxng/searxng
+#searxng/searxng
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
