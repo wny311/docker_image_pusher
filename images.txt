@@ -18,5 +18,7 @@
 #bitnami/zookeeper:3.9.3
 #bitnami/kafka:3.8.1
 #searxng/searxng
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+langgenius/dify-api:1.2.0
+langgenius/dify-web:1.2.0
+langgenius/dify-sandbox:0.2.11
+langgenius/dify-plugin-daemon:0.0.7-local
