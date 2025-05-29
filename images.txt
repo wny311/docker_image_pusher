@@ -23,5 +23,5 @@
 #langgenius/dify-sandbox:0.2.11
 #langgenius/dify-plugin-daemon:0.0.7-local
 #ghcr.io/open-webui/open-webui:main
-vllm/vllm-openai:v0.8.5.post1
+vllm/vllm-openai:v0.9.0
 
