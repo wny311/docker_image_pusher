@@ -18,10 +18,10 @@
 #bitnami/zookeeper:3.9.3
 #bitnami/kafka:3.8.1
 #searxng/searxng
-#langgenius/dify-api:1.2.0
-#langgenius/dify-web:1.2.0
-#langgenius/dify-sandbox:0.2.11
-#langgenius/dify-plugin-daemon:0.0.7-local
+langgenius/dify-api:1.4.1
+langgenius/dify-web:1.4.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.1-local
 #ghcr.io/open-webui/open-webui:main
-vllm/vllm-openai:v0.9.0
+#vllm/vllm-openai:v0.9.0
 
