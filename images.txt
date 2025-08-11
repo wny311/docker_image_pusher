@@ -1,6 +1,7 @@
 #almalinux:10.0
 #redis:6.2.19
-bitnami/minideb:bookworm
+#bitnami/minideb:bookworm
+container-registry.oracle.com/mysql/community-router:8.0.43
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
