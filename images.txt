@@ -8,10 +8,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#mysql:8.4
+mysql:8.0
 #zabbix/zabbix-web-nginx-mysql:alpine-6.4.21
 #zabbix/zabbix-web-nginx-mysql:alpine-7.4.1
-zabbix/zabbix-server-mysql:alpine-7.4.1
+#zabbix/zabbix-server-mysql:alpine-7.4.1
 #zabbix/zabbix-snmptraps:alpine-6.4.18
 #bitnami/redis:7.4.1
 #registry.k8s.io/metrics-server/metrics-server:v0.8.0
