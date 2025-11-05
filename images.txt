@@ -1,5 +1,5 @@
 #rustfs/rustfs:1.0.0-alpha.65
-#almalinux:10.0
+bitnamilegacy/mysql:8.0.40
 #redis:6.2.20-alpine
 #redis:8.0.4-alpine
 #redis:7.2.11-alpine
@@ -13,7 +13,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:3.13-alpine
 #mysql:8.0
-zabbix/zabbix-web-nginx-mysql:alpine-6.4.21
+#zabbix/zabbix-web-nginx-mysql:alpine-6.4.21
 #zabbix/zabbix-web-nginx-mysql:alpine-7.4.1
 #zabbix/zabbix-server-mysql:alpine-7.4.1
 #zabbix/zabbix-snmptraps:alpine-6.4.18
