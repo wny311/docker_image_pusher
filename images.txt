@@ -1,7 +1,7 @@
 #prom/node-exporter:v0.18.1
 #rustfs/rustfs:1.0.0-alpha.65
 #bitnamilegacy/mysql:8.0.40
-ghcr.io/cross-rs/x86_64-unknown-linux-musl:0.2.5
+#ghcr.io/cross-rs/x86_64-unknown-linux-musl:0.2.5
 #redis:6.2.20-alpine
 #redis:8.0.4-alpine
 #redis:7.2.11-alpine
@@ -38,6 +38,13 @@ ghcr.io/cross-rs/x86_64-unknown-linux-musl:0.2.5
 #redis:6-alpine
 #ubuntu/squid:latest
 #ghcr.io/open-webui/open-webui:main
+registry.k8s.io/kube-apiserver:v1.34.0
+registry.k8s.io/kube-controller-manager:v1.34.0
+registry.k8s.io/kube-scheduler:v1.34.0
+registry.k8s.io/kube-proxy:v1.34.0
+registry.k8s.io/coredns/coredns:v1.12.1
+registry.k8s.io/pause:3.10.1
+registry.k8s.io/etcd:3.6.4-0
 #registry.k8s.io/kube-apiserver:v1.30.13
 #registry.k8s.io/kube-controller-manager:v1.30.13
 #registry.k8s.io/kube-scheduler:v1.30.13
